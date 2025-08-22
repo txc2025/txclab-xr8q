@@ -3,7 +3,7 @@ terraform {
     tfe = {
       version = "~> 0.68.2"
     }
-  turbonomic = {
+    turbonomic = {
           source  = "IBM/turbonomic"
                 version = "1.3.0"
   }
